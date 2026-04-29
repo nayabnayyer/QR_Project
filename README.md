@@ -41,7 +41,7 @@ We explicitly define the mime="image/png" during the download process. This tell
 
 ### 📥 Installation & Setup
 Clone the Repo:
-git clone https://github.com/YOUR_USERNAME/skincare-qr-pro.git
+git clone (https://github.com/nayabnayyer/QR_Project)
 
 Install Requirements:
 pip install -r requirements.txt
