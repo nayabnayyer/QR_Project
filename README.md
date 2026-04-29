@@ -36,10 +36,10 @@ qr.save(buf, format="PNG")
 
 This treats a segment of the RAM as a virtual folder, allowing the app to "hand off" the image directly to the user's browser.
 
-2. MIME-Type Identification
+### 2. MIME-Type Identification
 We explicitly define the mime="image/png" during the download process. This tells the user's browser exactly how to interpret the bitstream, ensuring cross-platform compatibility.
 
-📥 Installation & Setup
+### 📥 Installation & Setup
 Clone the Repo:
 git clone https://github.com/YOUR_USERNAME/skincare-qr-pro.git
 
