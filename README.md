@@ -46,7 +46,7 @@ git clone (https://github.com/nayabnayyer/QR_Project)
 Install Requirements:
 pip install -r requirements.txt
 
-### Test out the web app: 
-(https://uxzsm6t3merppqnazqmxr2.streamlit.app/)
 Run the App:
 streamlit run app.py
+### Test out the web app: 
+(https://uxzsm6t3merppqnazqmxr2.streamlit.app/)
